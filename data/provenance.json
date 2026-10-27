@@ -1,0 +1,7 @@
+{
+  "dataset": "demo_r_mwk_05",
+  "api_url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/demo_r_mwk_05?format=TSV&compressed=true",
+  "retrieved_at_utc": "2026-10-27T00:35:41.484041+00:00",
+  "sha256": "f633178d14fbd67ea20f91cab6e38fb970edb8e608107500b1bfd5b900eec3ee",
+  "bytes": 2297132
+}
